@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Bahnschrift Condensed";
+    src: url("BAHNSCHRIFT.TTF") format("Truetype");
+}
+
+html {
+    font-family: "Bahnschrift Condensed", sans-serif;
+    background-image: url("Gon.jpg");
+    color:white;
+    font-size: 18px;
+}
+
+ul {
+    list-style-type:none;
+}
+
+.parcequecclasse {
+    border-radius: 50px;
+    box-shadow: 1px 1px 15px rgb(255, 255, 0);
+}
